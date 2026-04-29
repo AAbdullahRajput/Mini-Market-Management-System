@@ -1,7 +1,7 @@
 # 🛒 Mini Market Management System
 
 > A fully-featured desktop application built with C# WinForms for managing a mini market's daily operations — including login, product management, category management, seller management, and a complete billing/selling system.
-
+> 
 ---
 
 ## ✨ Features
